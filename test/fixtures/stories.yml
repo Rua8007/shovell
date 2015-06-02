@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: My shiny webblog
+  link: http://poocs.net/
+
+two:
+  name: site point forums
+  link: http://www.sitepoint.com/forums/

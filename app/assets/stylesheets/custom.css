@@ -1,0 +1,20 @@
+content {
+background-color: #fff;
+border: 10px solid #ccc;
+padding: 10px;
+overflow: hidden;
+}
+* html #content {
+height: 1%;
+}
+⋮ CSS code...
+#vote_history {
+padding: 5px;
+margin: 0;
+list-style: none;
+border: 3px solid #ccc;
+background-color: #eee;
+float: right;
+color: #999;
+font-size: smaller;
+}
